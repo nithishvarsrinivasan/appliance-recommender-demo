@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Appliance Recommender Demo</title>
+<link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<div class="container">
+  <header><h1>🏠 Appliance Energy Efficiency Recommender</h1>
+  <p class="subtitle">Pick a user and get an upgrade suggestion. Send quick feedback.</p></header>
+  <section class="card">
+    <h2>1) Get Recommendation</h2>
+    <div class="row">
+      <label for="userId">User ID</label>
+      <input id="userId" placeholder="e.g., U1"/>
+      <button id="getBtn">Get Recommendation</button>
+      <button id="randomBtn">Random User</button>
+    </div>
+    <div id="recBox" class="result hidden"></div>
+  </section>
+  <section class="card">
+    <h2>2) Send Feedback</h2>
+    <div class="row">
+      <button id="helpfulBtn" disabled>👍 Helpful</button>
+      <button id="notHelpfulBtn" disabled>👎 Not Helpful</button>
+    </div>
+    <div id="fbBox" class="result hidden"></div>
+  </section>
+  <footer><p>Demo only — feedback totals are in-memory. Restarting clears them.</p></footer>
+</div>
+<script src="/static/app.js"></script>
+</body></html>

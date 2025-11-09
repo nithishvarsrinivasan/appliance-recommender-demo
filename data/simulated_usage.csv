@@ -1,0 +1,64 @@
+user_id,appliance,power_kwh,usage_count
+U1,Fridge,1.402,183
+U1,Microwave,1.287,149
+U1,Water Heater,3.796,118
+U1,Washing Machine,0.734,33
+U1,Dishwasher,1.364,139
+U2,Laptop,0.066,11
+U2,Water Heater,5.307,50
+U2,Dishwasher,1.724,97
+U2,Washing Machine,0.845,65
+U2,Lighting,0.064,96
+U3,Washing Machine,0.992,21
+U3,Dishwasher,1.747,147
+U3,Lighting,0.043,106
+U3,Air Conditioner,2.938,85
+U3,Laptop,0.073,168
+U4,Lighting,0.065,69
+U4,Water Heater,5.55,107
+U4,Washing Machine,0.845,172
+U4,Fridge,1.46,51
+U4,TV,0.197,63
+U4,Ceiling Fan,0.079,189
+U4,Air Conditioner,4.439,175
+U5,Lighting,0.049,173
+U5,Air Conditioner,4.004,66
+U5,Water Heater,5.14,24
+U5,Washing Machine,0.823,18
+U5,Ceiling Fan,0.084,112
+U6,Washing Machine,1.118,174
+U6,Water Heater,4.632,77
+U6,TV,0.174,200
+U6,Lighting,0.054,77
+U6,Ceiling Fan,0.082,119
+U6,Laptop,0.075,112
+U6,Microwave,1.079,45
+U7,Washing Machine,0.749,107
+U7,Fridge,1.318,129
+U7,Lighting,0.053,151
+U7,Ceiling Fan,0.086,12
+U7,TV,0.228,39
+U7,Dishwasher,1.711,147
+U7,Water Heater,5.289,174
+U7,Air Conditioner,3.395,85
+U8,Air Conditioner,4.397,170
+U8,Ceiling Fan,0.066,173
+U8,Fridge,1.265,60
+U8,TV,0.175,51
+U8,Dishwasher,1.605,145
+U8,Lighting,0.063,163
+U8,Washing Machine,0.866,14
+U8,Microwave,0.942,102
+U9,Water Heater,5.436,146
+U9,Fridge,1.42,42
+U9,Lighting,0.056,150
+U9,Microwave,0.971,145
+U9,Laptop,0.074,118
+U9,TV,0.256,148
+U9,Ceiling Fan,0.082,186
+U10,Microwave,0.947,67
+U10,Dishwasher,1.248,15
+U10,TV,0.219,68
+U10,Water Heater,4.924,11
+U10,Lighting,0.042,171
+U10,Laptop,0.05,27
